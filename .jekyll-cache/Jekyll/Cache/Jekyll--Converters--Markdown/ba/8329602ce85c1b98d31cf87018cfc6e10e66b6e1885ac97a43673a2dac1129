@@ -1,0 +1,103 @@
+I"�<h2 id="landing-pages">Landing pages</h2>
+
+<ul>
+  <li>Stand-alone web-page created specifically for marketing campaigns, with a single focus - CTA.</li>
+  <li>To increase conversion rate of the campaign and to lower CAC.</li>
+  <li>Top of the funnel (where the customer sees the marketing campaign) → Landing page → Conversion.</li>
+</ul>
+
+<p><strong>How’s it diff. from home page :</strong></p>
+<ul>
+  <li>Has only one link - CTA.</li>
+  <li>Has no navigation.</li>
+</ul>
+
+<p><strong>2 major variations :</strong></p>
+<ul>
+  <li>Lead generation landing pages -E-commerce use “form” as CTA in exchange for a free e-book or a webinar.</li>
+  <li>Click-through landing pages - SaaS use for sales/subscription by offering free trial.</li>
+</ul>
+
+<p><strong>Driving traffic :</strong></p>
+<ul>
+  <li>Paid search traffic - pay per click</li>
+  <li>Paid social traffic</li>
+  <li>E-mail campaigns</li>
+  <li>Organic search - SEO</li>
+</ul>
+
+<p><strong>What you need before creating a landing page :</strong></p>
+<ul>
+  <li>Buyer persona(s) - semi-fictional representations of your ideal customers, target to one persona for higher conversion.</li>
+  <li>Offer - free e-book, webinar, tip sheet, or anything else that is downloadable and informative about the industry you are in.</li>
+  <li>Buyer’s journey
+    <ul>
+      <li>Awareness stage - doing a lot of research to understand their problem. e-books and guides.</li>
+      <li>Consideration stage - want to understand what they can do to solve it. webinars and videos.</li>
+      <li>Decision stage - trying to narrow down the vendors before making their final choice. case studies, demos &amp; product info.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Core elements on a landing page :</strong></p>
+<ol>
+  <li>Unique Selling Proposition - how your offer is different and better. main, supporting, reinforcing headline.</li>
+  <li>Hero image - first visual element of your landing page that visitors will see.</li>
+  <li>Benefits with features - “You can create landing pages by yourself, without a developer, using our drag-and-drop builder.”</li>
+  <li>Social proof - logos of companies, video testimonials, direct quotes.</li>
+  <li>One Call to action - “start free trial” , “reserve my seat” , “get 50% off”</li>
+  <li>Thank you page with social sharing icons.</li>
+</ol>
+
+<p><strong>Best practices :</strong></p>
+<ol>
+  <li>Ensure your messaging matches your ads.</li>
+  <li>Keep the action above the fold.</li>
+  <li>Use directional cues to direct the eye.</li>
+  <li>Show your product/service in action.</li>
+  <li>Remove navigation and other distractions.</li>
+  <li>Include (authentic) social proof.</li>
+  <li>Use clear, compelling copy.</li>
+  <li>Keep it fast.</li>
+  <li>Design for the right device.</li>
+  <li>Test and update your landing pages.</li>
+</ol>
+
+<p><strong>More traffic or Increase conversion rates ?</strong></p>
+<ul>
+  <li>More traffic = more leads = more money spent. but conversion rate stays the same.</li>
+  <li>Creating and optimizing high-performance landing pages allows you to increase your profit with the same PPC budget.</li>
+</ul>
+
+<p><strong>A/B testing :</strong></p>
+<ul>
+  <li>act of running a simultaneous experiment between two or more variants of a page to see which one performs the best.</li>
+  <li>Terminologies : Variant, Champion, Challenger.</li>
+  <li>
+    <p>Tools : Unbounce, Kissmetrics, Optimizely, VWO</p>
+  </li>
+  <li>Assigning Traffic Weight
+    <ul>
+      <li>Starting from scratch - equal weight.</li>
+      <li>Testing Existing Landing Pages - small percentage to new variant.</li>
+    </ul>
+  </li>
+  <li>What Should I Test on My Landing Pages?
+    <ul>
+      <li>Headline - long or short</li>
+      <li>CTA - color, size, copy</li>
+      <li>Hero shot</li>
+      <li>Forms - diff. lengths</li>
+      <li>Copy - long or short</li>
+      <li>Layout - CTA to the right or left</li>
+    </ul>
+  </li>
+  <li>Obstacles
+    <ul>
+      <li>Need to Wait for Statistical Significance</li>
+      <li>Enough Traffic</li>
+      <li>It’s a “One-Size-Fits-All” Approach to Optimizing - customers of other variant may be more valuable - solved by ML (Unbounce’s smart traffic - learns and optimizes)</li>
+    </ul>
+  </li>
+</ul>
+:ET
