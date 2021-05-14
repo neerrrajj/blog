@@ -1,5 +1,5 @@
 ---
-title: Recent posts
+title: ""
 layout: collection
 permalink: /
 collection: marketing
