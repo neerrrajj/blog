@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "All posts"
 layout: collection
 permalink: /
 collection: marketing
